@@ -1,0 +1,548 @@
+Pavadinimas,Metai,Kėbulo tipas,Kaina,Kuras,Pavarų dėžė,Variklis,Rida,Miestas,Nuoroda
+Volkswagen Golf,2011-05,Universalas,4 700 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",307 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2011-dyzelinas-30041115.html
+Volkswagen Golf,2000-06,Hečbekas,1 700 €,Dyzelinas,Automatinė,"1.9 l., 81 kW",289 543 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2000-dyzelinas-30047155.html
+Volkswagen Golf,2009-09,Hečbekas,3 600 €,Benzinas,Mechaninė,"1.4 l., 90 kW",226 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29939205.html
+Volkswagen Golf,2014-11,Hečbekas,6 650 €,Benzinas,Automatinė,"1.4 l., 90 kW",200 800 km,Trakai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2014-benzinas-30008467.html
+Volkswagen Golf,2016,Universalas,6 999 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",259 508 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-30042425.html
+Volkswagen Golf,2014-03,Hečbekas,7 500 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",279 006 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2014-dyzelinas-29722523.html
+Volkswagen Golf,2016-03,Hečbekas,8 500 €,Benzinas,Automatinė,"2.0 l., 215 kW",228 814 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-benzinas-30039883.html
+Volkswagen Golf,2021-05,Hečbekas,16 600 €,Benzinas,Automatinė,"1.5 l., 96 kW",146 576 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2021-benzinas-30022715.html
+Volkswagen Golf,2022-02,Universalas,16 600 €,Dyzelinas,Automatinė,"2.0 l., 85 kW",165 983 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-30022793.html
+Volkswagen Golf,2022-10,Universalas,16 750 €,Dyzelinas,Automatinė,"2.0 l., 85 kW",147 272 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-30022685.html
+Volkswagen Golf,2022-11,Universalas,17 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",157 768 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-30022655.html
+Volkswagen Golf,2020-09,Hečbekas,17 800 €,Benzinas,Mechaninė,"2.0 l., 170 kW",48 000 km,Šakiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-benzinas-30032647.html
+Volkswagen Golf,2023-05,Universalas,20 000 €,Benzinas,Automatinė,"1.0 l., 81 kW",40 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-universalas-2023-benzinas-30047875.html
+Volkswagen Golf,2022-05,Universalas,20 900 €,Dyzelinas,Automatinė,"2.0 l., 147 kW",166 139 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-30022725.html
+Volkswagen Golf,2000-05,Hečbekas,900 €,Dyzelinas,Automatinė,"1.9 l., 81 kW",298 478 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2000-dyzelinas-29719009.html
+Volkswagen Golf,2009-12,Universalas,2 800 €,Dyzelinas,Automatinė,"2.0 l., 103 kW",320 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2009-dyzelinas-30027515.html
+Volkswagen Golf,2011-08,Hečbekas,3 500 €,Dyzelinas,Mechaninė,"1.6 l., 66 kW",300 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-29210697.html
+Volkswagen Golf,2011-09,Universalas,3 850 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",275 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29316882.html
+Volkswagen Golf,2012-06,Universalas,3 850 €,Benzinas,Mechaninė,"1.2 l., 77 kW",194 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2012-benzinas-30000665.html
+Volkswagen Golf,2009-03,Hečbekas,3 900 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",320 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-30041335.html
+Volkswagen Golf,2011-10,Universalas,3 900 €,Benzinas / dujos,Automatinė,"1.4 l., 90 kW",270 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2011-benzinas-dujos-29797009.html
+Volkswagen Golf,2009-05,Hečbekas,3 950 €,Benzinas,Mechaninė,"1.4 l., 59 kW",159 601 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-30027287.html
+Volkswagen Golf,2010-10,Universalas,4 100 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",263 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29961709.html
+Volkswagen Golf,2012-09,Universalas,4 100 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",247 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-30023671.html
+Volkswagen Golf,2010-04,Hečbekas,4 400 €,Benzinas,Mechaninė,"1.4 l., 90 kW",161 500 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-29969885.html
+Volkswagen Golf,2011-06,Hečbekas,4 650 €,Benzinas,Mechaninė,"1.4 l., 90 kW",214 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2011-benzinas-29839770.html
+Volkswagen Golf,2010-10,Hečbekas,4 750 €,Benzinas,Mechaninė,"1.8 l., 118 kW",174 662 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-2010-benzinas-30034833.html
+Volkswagen Golf,2011-12,Hečbekas,4 900 €,Benzinas,Automatinė,"1.2 l., 77 kW",200 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2011-benzinas-29443016.html
+Volkswagen Golf,2010-08,Hečbekas,4 950 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",343 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-29842214.html
+Volkswagen Golf,2010,Hečbekas,5 450 €,Benzinas,Automatinė,"1.4 l., 90 kW",222 150 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-29920575.html
+Volkswagen Golf,2014-05,Hečbekas,5 500 €,Benzinas,Mechaninė,"1.2 l., 77 kW",291 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-30015917.html
+Volkswagen Golf,2009-11,Hečbekas,5 800 €,Benzinas,Automatinė,"1.4 l., 118 kW",190 551 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-30005819.html
+Volkswagen Golf,2017-12,Universalas,5 999 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",239 577 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29121105.html
+Volkswagen Golf,2013-12,Hečbekas,6 000 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",252 883 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-28899945.html
+Volkswagen Golf,2014-12,Universalas,6 250 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",308 377 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29739939.html
+Volkswagen Golf,2011-04,Hečbekas,6 250 €,Dyzelinas,Automatinė,"2.0 l., 125 kW",254 170 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2011-dyzelinas-30038759.html
+Volkswagen Golf,2016-09,Universalas,6 500 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",284 569 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29996709.html
+Volkswagen Golf,2016-02,Universalas,6 500 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",266 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-28707031.html
+Volkswagen Golf,2014-09,Universalas,6 699 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",307 400 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29921463.html
+Volkswagen Golf,2015-03,Universalas,6 700 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",317 431 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29944619.html
+Volkswagen Golf,2013-08,Universalas,6 750 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",257 251 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29872356.html
+Volkswagen Golf,2013-03,Universalas,6 900 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",306 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29921361.html
+Volkswagen Golf,2013-11,Hečbekas,6 900 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",230 951 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29863606.html
+Volkswagen Golf,2016,Universalas,6 990 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29586929.html
+Volkswagen Golf,2015-12,Universalas,7 100 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",300 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29115171.html
+Volkswagen Golf,2018-11,Universalas,7 800 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",269 819 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29958659.html
+Volkswagen Golf,2017-09,Hečbekas,7 899 €,Benzinas,Mechaninė,"1.4 l., 92 kW",225 334 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2017-benzinas-29899208.html
+Volkswagen Golf,2015-10,Hečbekas,8 500 €,Benzinas / elektra,Automatinė,"1.4 l., 110 kW",283 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-30046539.html
+Volkswagen Golf,2018-04,Universalas,8 900 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",300 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29757839.html
+Volkswagen Golf,2018-12,Universalas,8 999 €,Benzinas,Automatinė,125 kW,165 493 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-universalas-2018-benzinas-29921547.html
+Volkswagen Golf,2018-04,Universalas,9 100 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",300 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29114609.html
+Volkswagen Golf,2018,Universalas,9 400 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",254 343 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29001343.html
+Volkswagen Golf,2018-11,Hečbekas,9 500 €,Benzinas,Mechaninė,"1.0 l., 85 kW",74 851 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2018-benzinas-29829368.html
+Volkswagen Golf,2019-08,Universalas,9 650 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",206 736 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2019-dyzelinas-29878310.html
+Volkswagen Golf,2014-06,Hečbekas,9 950 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",257 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-30032003.html
+Volkswagen Golf,2019-03,Universalas,9 990 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",159 363 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2019-dyzelinas-29914577.html
+Volkswagen Golf,2019-06,Hečbekas,10 250 €,Benzinas,Automatinė,"1.0 l., 85 kW",166 692 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2019-benzinas-30020389.html
+Volkswagen Golf,2018-05,Hečbekas,10 350 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",94 700 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2018-elektra-29699931.html
+Volkswagen Golf,2018-02,Hečbekas,10 700 €,Dyzelinas,Mechaninė,"2.0 l., 135 kW",246 459 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-dyzelinas-30009961.html
+Volkswagen Golf,2014-05,Hečbekas,10 750 €,Dyzelinas,Mechaninė,"2.0 l., 135 kW",185 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-29983161.html
+Volkswagen Golf,2018-09,Hečbekas,10 750 €,Benzinas,Mechaninė,"1.0 l., 81 kW",90 000 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2018-benzinas-25465683.html
+Volkswagen Golf,2016-06,Hečbekas,10 900 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",179 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-dyzelinas-28299778.html
+Volkswagen Golf,2021-05,Universalas,11 300 €,Benzinas / elektra,Automatinė,"1.5 l., 96 kW",130 000 km,Vilkaviškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2021-benzinas-elektra-30037859.html
+Volkswagen Golf,2020-06,Universalas,11 990 €,Benzinas / dujos,Automatinė,"1.5 l., 96 kW",138 690 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-dujos-29992715.html
+Volkswagen Golf,2019-05,Universalas,11 990 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",211 900 km,Utena,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2019-dyzelinas-30012439.html
+Volkswagen Golf,2018-03,Hečbekas,11 999 €,Benzinas,Automatinė,"1.4 l., 92 kW",176 065 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-29921393.html
+Volkswagen Golf,2018-08,Universalas,11 999 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",230 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2018-dyzelinas-29963479.html
+Volkswagen Golf,2016-09,Hečbekas,12 980 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",111 462 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2016-dyzelinas-29800977.html
+Volkswagen Golf,2017-08,Hečbekas,12 999 €,Benzinas,Automatinė,"1.4 l., 92 kW",183 800 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2017-benzinas-29921449.html
+Volkswagen Golf,2019-08,Hečbekas,13 900 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",47 229 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2019-elektra-28736939.html
+Volkswagen Golf,2019-11,Hečbekas,13 900 €,Benzinas,Automatinė,"1.5 l., 96 kW",129 938 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2019-benzinas-29708947.html
+Volkswagen Golf,2022-09,Universalas,13 950 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",240 362 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-30002119.html
+Volkswagen Golf,2021-02,Universalas,14 300 €,Benzinas,Automatinė,"1.5 l., 110 kW",150 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2021-benzinas-30045411.html
+Volkswagen Golf,2020-02,Universalas,14 750 €,Benzinas,Automatinė,"1.5 l., 110 kW",68 846 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-30020333.html
+Volkswagen Golf,2022,Hečbekas,14 900 €,Benzinas,Mechaninė,"1.5 l., 96 kW",89 602 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2022-benzinas-29639963.html
+Volkswagen Golf,2020-07,Hečbekas,15 450 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",241 500 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-dyzelinas-29904988.html
+Volkswagen Golf,2022-06,Hečbekas,15 500 €,Benzinas,Mechaninė,"1.5 l., 96 kW",58 287 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2022-benzinas-29639985.html
+Volkswagen Golf,2020-10,Hečbekas,15 950 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",270 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-dyzelinas-29829408.html
+Volkswagen Golf,2021-05,Universalas,16 750 €,Dyzelinas,Automatinė,"2.0 l., 85 kW",152 326 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2021-dyzelinas-30028021.html
+Volkswagen Golf,2020-12,Hečbekas,17 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",190 212 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-dyzelinas-29583731.html
+Volkswagen Golf,2021-11,Hečbekas,17 400 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",118 300 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2021-benzinas-elektra-29611265.html
+Volkswagen Golf,2021-04,Universalas,17 485 €,Benzinas / dujos,Automatinė,"1.5 l., 110 kW",116 661 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2021-benzinas-dujos-29722591.html
+Volkswagen Golf,2022-07,Hečbekas,17 908 €,Benzinas / elektra,Automatinė,"1.4 l., 180 kW",135 495 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2022-benzinas-elektra-30001471.html
+Volkswagen Golf,2021,Hečbekas,18 000 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",79 000 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2021-benzinas-elektra-29805621.html
+Volkswagen Golf,2021-04,Hečbekas,18 450 €,Benzinas / elektra,Automatinė,"1.0 l., 81 kW",107 536 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2021-benzinas-elektra-30020339.html
+Volkswagen Golf,2020-07,Hečbekas,18 499 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",96 766 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-dyzelinas-29921495.html
+Volkswagen Golf,2021-11,Universalas,18 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",143 433 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2021-dyzelinas-30048111.html
+Volkswagen Golf,2018-05,Hečbekas,19 000 €,Benzinas,Automatinė,"2.0 l., 164 kW",57 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-benzinas-29715777.html
+Volkswagen Golf,2021-04,Hečbekas,19 300 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",117 000 km,,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2021-benzinas-elektra-29694135.html
+Volkswagen Golf,2018-12,Hečbekas,19 999 €,Benzinas,Automatinė,"2.0 l., 310 kW",225 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-benzinas-29900966.html
+Volkswagen Golf,2022-10,Hečbekas,21 950 €,Benzinas / elektra,Automatinė,"1.4 l., 110 kW",131 951 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2022-benzinas-elektra-29962627.html
+Volkswagen Golf,2024-06,Hečbekas,22 400 €,Benzinas,Automatinė,"1.5 l., 96 kW",45 738 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29580057.html
+Volkswagen Golf,2024-06,Hečbekas,22 400 €,Benzinas,Automatinė,"1.5 l., 96 kW",46 960 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29710795.html
+Volkswagen Golf,2024-06,Hečbekas,22 700 €,Benzinas,Automatinė,"1.5 l., 96 kW",39 371 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29626485.html
+Volkswagen Golf,2024-06,Hečbekas,22 700 €,Benzinas,Automatinė,"1.5 l., 96 kW",35 843 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29710773.html
+Volkswagen Golf,2024-11,Hečbekas,22 800 €,Benzinas,Automatinė,"1.5 l., 85 kW",25 754 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29982283.html
+Volkswagen Golf,2023-08,Hečbekas,22 900 €,Benzinas,Automatinė,"1.5 l., 110 kW",58 032 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2023-benzinas-29830802.html
+Volkswagen Golf,2024-06,Hečbekas,23 000 €,Benzinas,Automatinė,"1.5 l., 96 kW",27 222 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29705789.html
+Volkswagen Golf,2019-06,Hečbekas,25 500 €,Benzinas,Automatinė,"2.0 l., 213 kW",65 183 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2019-benzinas-29810725.html
+Volkswagen Golf,2025,Hečbekas,"34 500 €
+40 740 €",Benzinas / elektra,Automatinė,"1.5 l., 150 kW",10 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2025-benzinas-elektra-29451088.html
+Volkswagen Golf,2018-01,Hečbekas,8 000 €,Benzinas,Automatinė,"1.0 l., 81 kW",199 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2018-benzinas-30000105.html
+Volkswagen Golf,2018-06,Hečbekas,11 500 €,Benzinas,Automatinė,"1.4 l., 92 kW",151 687 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-30043557.html
+Volkswagen Golf,2023-04,Hečbekas,13 900 €,Benzinas / elektra,Automatinė,"1.4 l., 180 kW",74 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2023-benzinas-elektra-30039397.html
+Volkswagen Golf,2003-04,Hečbekas,1 238 €,Benzinas,Mechaninė,"1.4 l., 55 kW",223 000 km,Jurbarkas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2003-benzinas-28960973.html
+Volkswagen Golf,2002,Hečbekas,1 400 €,Dyzelinas,Mechaninė,"1.9 l., 96 kW",397 200 km,Pasvalys,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2002-dyzelinas-29974531.html
+Volkswagen Golf,2006,Hečbekas,1 600 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",241 211 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2006-dyzelinas-27516153.html
+Volkswagen Golf,2008-09,Universalas,1 800 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",390 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-30000905.html
+Volkswagen Golf,2008-12,Universalas,1 800 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",350 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-28235518.html
+Volkswagen Golf,2007,Hečbekas,1 800 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",251 449 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2007-dyzelinas-29898402.html
+Volkswagen Golf,2007,Universalas,1 850 €,Dyzelinas,Mechaninė,"1.9 l., 74 kW",310 000 km,Pasvalys,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2007-dyzelinas-30010787.html
+Volkswagen Golf,2007-07,Universalas,1 950 €,Dyzelinas,Automatinė,"2.0 l., 103 kW",330 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2007-dyzelinas-30041461.html
+Volkswagen Golf,2005-02,Hečbekas,2 100 €,Benzinas,Mechaninė,"2.0 l., 110 kW",330 080 km,Biržai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2005-benzinas-29988617.html
+Volkswagen Golf,2010-07,Universalas,2 150 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",300 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-30047883.html
+Volkswagen Golf,2006-08,Hečbekas,2 350 €,Dyzelinas,Mechaninė,"2.0 l., 125 kW",437 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2006-dyzelinas-29959693.html
+Volkswagen Golf,2008-05,Hečbekas,2 400 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",368 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2008-dyzelinas-30005333.html
+Volkswagen Golf,2009-03,Hečbekas,2 500 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",253 479 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-30040165.html
+Volkswagen Golf,2006-05,Hečbekas,2 500 €,Benzinas,Automatinė,"1.6 l., 85 kW",305 000 km,Mažeikiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2006-benzinas-29892394.html
+Volkswagen Golf,2012-12,Hečbekas,2 750 €,Benzinas,Mechaninė,"1.4 l., 90 kW",120 433 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-29905426.html
+Volkswagen Golf,2009-02,Universalas,2 750 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",236 000 km,Skaudvilė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-29334690.html
+Volkswagen Golf,2009-11,Hečbekas,2 950 €,Benzinas,Mechaninė,"1.4 l., 59 kW",198 611 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29580123.html
+Volkswagen Golf,2016-07,Universalas,2 990 €,Benzinas,Mechaninė,"1.2 l., 63 kW",169 350 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2016-benzinas-30019459.html
+Volkswagen Golf,2009-02,Universalas,3 100 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",213 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-30010133.html
+Volkswagen Golf,2009-09,Universalas,3 100 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",259 500 km,Prienai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2009-dyzelinas-29452106.html
+Volkswagen Golf,2012-11,Universalas,3 200 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",221 345 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29658639.html
+Volkswagen Golf,2010-10,Hečbekas,3 200 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",331 425 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-29913743.html
+Volkswagen Golf,2012-10,Universalas,3 490 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",320 000 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-30032957.html
+Volkswagen Golf,2010-12,Universalas,3 499 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29680415.html
+Volkswagen Golf,2011-02,Hečbekas,3 550 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",301 150 km,Utena,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-30047885.html
+Volkswagen Golf,2009-10,Hečbekas,3 550 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",266 000 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29981535.html
+Volkswagen Golf,2017-12,Universalas,3 600 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",326 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-30002563.html
+Volkswagen Golf,2011-05,Universalas,3 699 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",260 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-30049007.html
+Volkswagen Golf,2006-06,Hečbekas,3 700 €,Benzinas,Automatinė,"2.0 l., 110 kW",214 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2006-benzinas-29518578.html
+Volkswagen Golf,2010-07,Hečbekas,3 700 €,Benzinas,Automatinė,"1.6 l., 75 kW",308 000 km,Plungė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-benzinas-30041931.html
+Volkswagen Golf,2011-05,Universalas,3 900 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",162 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29835970.html
+Volkswagen Golf,2020-01,Hečbekas,3 900 €,Benzinas,Mechaninė,"1.0 l., 81 kW",97 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2020-benzinas-29899634.html
+Volkswagen Golf,2014-05,Kabrioletas,4 500 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",244 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-kabrioletas-2014-dyzelinas-28539209.html
+Volkswagen Golf,2013-02,Universalas,4 650 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",257 000 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29923943.html
+Volkswagen Golf,2011-06,Hečbekas,4 650 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",159 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-30020623.html
+Volkswagen Golf,2011-09,Hečbekas,4 650 €,Benzinas,Automatinė,"1.2 l., 77 kW",230 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2011-benzinas-29868882.html
+Volkswagen Golf,2010-07,Hečbekas,4 750 €,Benzinas,Mechaninė,"1.4 l., 59 kW",98 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-28831753.html
+Volkswagen Golf,2010-05,Hečbekas,4 899 €,Benzinas,Automatinė,"1.4 l., 90 kW",120 964 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-30026583.html
+Volkswagen Golf,2015-12,Universalas,4 900 €,Benzinas / dujos,Automatinė,"1.4 l., 81 kW",315 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2015-benzinas-dujos-30038745.html
+Volkswagen Golf,2013-12,Hečbekas,4 999 €,Benzinas,Mechaninė,"1.4 l., 90 kW",256 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2013-benzinas-29830514.html
+Volkswagen Golf,2011-07,Hečbekas,4 999 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-29981457.html
+Volkswagen Golf,2013-10,Universalas,5 400 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",332 402 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29471888.html
+Volkswagen Golf,2014-12,Hečbekas,5 590 €,Benzinas,Mechaninė,"1.2 l., 77 kW",193 721 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-30042791.html
+Volkswagen Golf,2012-01,Kabrioletas,5 750 €,Benzinas,Automatinė,"1.4 l., 118 kW",205 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-kabrioletas-2012-benzinas-29960351.html
+Volkswagen Golf,2014-12,Universalas,5 900 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",187 000 km,Utena,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-30011635.html
+Volkswagen Golf,2014-01,Hečbekas,6 150 €,Benzinas,Mechaninė,"1.4 l., 103 kW",306 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2014-benzinas-29914647.html
+Volkswagen Golf,2014-10,Universalas,6 190 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",274 200 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-30028329.html
+Volkswagen Golf,2015-08,Universalas,6 200 €,Benzinas,Mechaninė,"1.2 l., 81 kW",262 544 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2015-benzinas-29391992.html
+Volkswagen Golf,2015-06,Universalas,6 300 €,Dyzelinas,Mechaninė,"1.6 l.,",330 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29887414.html
+Volkswagen Golf,2013-11,Universalas,6 400 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",290 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2013-dyzelinas-29915111.html
+Volkswagen Golf,2016-01,Universalas,6 500 €,Benzinas,Mechaninė,"1.2 l., 81 kW",203 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2016-benzinas-29660061.html
+Volkswagen Golf,2015-04,Universalas,6 500 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",260 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29960163.html
+Volkswagen Golf,2015-12,Hečbekas,6 800 €,"Elektra, 24 kWh",Automatinė,"Elektra, 24 kWh",148 183 km,Plungė,https://autoplius.lt/skelbimai/volkswagen-golf-24-kwh-hecbekas-2015-elektra-29900074.html
+Volkswagen Golf,2015-12,Universalas,6 900 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",228 400 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29903452.html
+Volkswagen Golf,2014-09,Hečbekas,6 900 €,Benzinas,Automatinė,"1.4 l., 103 kW",141 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2014-benzinas-30009683.html
+Volkswagen Golf,2016-08,Universalas,6 900 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",319 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2016-dyzelinas-29989263.html
+Volkswagen Golf,2014-11,Hečbekas,6 980 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",215 145 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2014-dyzelinas-29375978.html
+Volkswagen Golf,2013-01,Hečbekas,6 999 €,Benzinas,Automatinė,"2.0 l., 155 kW",274 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2013-benzinas-29988575.html
+Volkswagen Golf,2013-07,Hečbekas,7 000 €,Benzinas,Mechaninė,"1.4 l., 103 kW",300 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2013-benzinas-30019659.html
+Volkswagen Golf,2014-12,Universalas,7 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",251 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2014-dyzelinas-29941391.html
+Volkswagen Golf,2023-10,Universalas,7 200 €,Benzinas,Mechaninė,"1.0 l., 81 kW",35 000 km,Kazlų Rūda,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-universalas-2023-benzinas-29675949.html
+Volkswagen Golf,2018,Hečbekas,7 300 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",299 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2018-dyzelinas-30010629.html
+Volkswagen Golf,2015-09,Hečbekas,7 300 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",299 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2015-dyzelinas-29998133.html
+Volkswagen Golf,2013-04,Hečbekas,7 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",276 711 km,Vilkaviškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29997089.html
+Volkswagen Golf,2011-10,Hečbekas,7 400 €,Dyzelinas,Automatinė,"2.0 l., 125 kW",217 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2011-dyzelinas-29869288.html
+Volkswagen Golf,2022-01,Universalas,7 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",111 250 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-29940697.html
+Volkswagen Golf,2017-12,Hečbekas,7 600 €,Benzinas,Mechaninė,"1.4 l., 92 kW",224 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2017-benzinas-30049101.html
+Volkswagen Golf,2016-06,Hečbekas,7 850 €,Benzinas,Mechaninė,"1.4 l., 110 kW",225 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2016-benzinas-29993675.html
+Volkswagen Golf,2017,Universalas,8 000 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",235 357 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29945051.html
+Volkswagen Golf,2014-11,Hečbekas,8 200 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",242 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-30026501.html
+Volkswagen Golf,2015-05,Hečbekas,8 300 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",265 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-dyzelinas-29418406.html
+Volkswagen Golf,2012-12,Hečbekas,8 350 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",250 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-dyzelinas-29837168.html
+Volkswagen Golf,2018-05,Hečbekas,8 350 €,Benzinas,Mechaninė,"1.0 l., 63 kW",177 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2018-benzinas-29884052.html
+Volkswagen Golf,2017-11,Hečbekas,8 400 €,Benzinas,Mechaninė,"1.4 l., 92 kW",146 750 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2017-benzinas-30017781.html
+Volkswagen Golf,2018-11,Universalas,8 400 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",237 616 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29633975.html
+Volkswagen Golf,2014-12,Hečbekas,8 500 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",209 461 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2014-benzinas-elektra-30010313.html
+Volkswagen Golf,2018-04,Hečbekas,8 500 €,Benzinas,Mechaninė,"1.4 l., 92 kW",193 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-30015387.html
+Volkswagen Golf,2017-08,Hečbekas,8 500 €,Benzinas,Automatinė,"1.4 l., 92 kW",165 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2017-benzinas-29981777.html
+Volkswagen Golf,2019-04,Hečbekas,8 500 €,Benzinas,Mechaninė,"1.0 l., 85 kW",256 500 km,Ukmergė,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2019-benzinas-29989249.html
+Volkswagen Golf,2019-03,Hečbekas,8 500 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",170 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2019-dyzelinas-29989339.html
+Volkswagen Golf,2020-02,Universalas,8 700 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",247 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2020-dyzelinas-29889586.html
+Volkswagen Golf,2016-11,Hečbekas,8 800 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",277 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-dyzelinas-29984593.html
+Volkswagen Golf,2014-11,Hečbekas,8 899 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",227 000 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-29576637.html
+Volkswagen Golf,2016-05,Hečbekas,8 950 €,"Elektra, 85 kWh",Automatinė,"Elektra, 85 kWh",97 740 km,Elektrėnai,https://autoplius.lt/skelbimai/volkswagen-golf-85-kwh-hecbekas-2016-elektra-30014231.html
+Volkswagen Golf,2018-01,Hečbekas,8 990 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",221 222 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-dyzelinas-29993687.html
+Volkswagen Golf,2016-01,Hečbekas,8 999 €,Benzinas,Automatinė,"2.0 l., 155 kW",160 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-benzinas-30022957.html
+Volkswagen Golf,2015,Sedanas,9 199 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",250 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-sedanas-2015-benzinas-elektra-29968357.html
+Volkswagen Golf,2015-11,Hečbekas,9 250 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",260 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-29940221.html
+Volkswagen Golf,2019-01,Hečbekas,9 700 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",190 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2019-dyzelinas-29866774.html
+Volkswagen Golf,2016-05,Universalas,9 800 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",105 116 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2016-benzinas-elektra-29982751.html
+Volkswagen Golf,2018,Hečbekas,9 900 €,Elektra,Automatinė,,147 537 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-hecbekas-2018-elektra-30028527.html
+Volkswagen Golf,2019-08,Universalas,9 983 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",185 309 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2019-dyzelinas-29097763.html
+Volkswagen Golf,2020-02,Universalas,10 300 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",298 170 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2020-dyzelinas-29514528.html
+Volkswagen Golf,2015-10,Hečbekas,10 300 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",128 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-30037839.html
+Volkswagen Golf,2018-08,Hečbekas,10 400 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",180 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-elektra-29946337.html
+Volkswagen Golf,2016-11,Universalas,10 990 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",250 800 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2016-dyzelinas-29978253.html
+Volkswagen Golf,2017-01,Universalas,11 200 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",145 046 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29944655.html
+Volkswagen Golf,2015-06,Hečbekas,11 400 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",187 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-dyzelinas-29784407.html
+Volkswagen Golf,2017-11,Hečbekas,11 900 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",191 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2017-dyzelinas-29987763.html
+Volkswagen Golf,2013-10,Hečbekas,11 900 €,Benzinas,Mechaninė,"2.0 l., 169 kW",184 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2013-benzinas-29989427.html
+Volkswagen Golf,2019-04,Hečbekas,11 900 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",137 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2019-dyzelinas-29989547.html
+Volkswagen Golf,2021-12,Universalas,12 000 €,Dyzelinas,Automatinė,"2.0 l.,",135 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2021-dyzelinas-29786451.html
+Volkswagen Golf,2017-11,Hečbekas,12 249 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",97 562 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2017-elektra-29535907.html
+Volkswagen Golf,2020-07,Universalas,12 500 €,Benzinas,Automatinė,"1.5 l., 110 kW",165 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-29940399.html
+Volkswagen Golf,2018-12,Hečbekas,12 599 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",116 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2018-dyzelinas-29308988.html
+Volkswagen Golf,2020-04,Universalas,12 900 €,Benzinas,Automatinė,"1.5 l., 110 kW",171 000 km,"Tallinn, Estija",https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-29519954.html
+Volkswagen Golf,2020-11,Hečbekas,13 200 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",44 610 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2020-elektra-29915367.html
+Volkswagen Golf,2018,Hečbekas,13 200 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",228 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-dyzelinas-29825688.html
+Volkswagen Golf,2021-04,Universalas,13 400 €,Dyzelinas,Automatinė,"2.0 l., 85 kW",225 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2021-dyzelinas-29909029.html
+Volkswagen Golf,2015-11,Hečbekas,13 500 €,Benzinas,Automatinė,"1.4 l., 92 kW",134 950 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-30020523.html
+Volkswagen Golf,2021-05,Universalas,13 600 €,Benzinas / elektra,Automatinė,"1.0 l., 85 kW",197 900 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-universalas-2021-benzinas-elektra-30021961.html
+Volkswagen Golf,2020-07,Universalas,13 900 €,Benzinas,Automatinė,"1.5 l., 110 kW",135 050 km,"Tallinn, Estija",https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-29552767.html
+Volkswagen Golf,2018-06,Hečbekas,14 390 €,Benzinas,Automatinė,"2.0 l., 169 kW",101 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-benzinas-30018197.html
+Volkswagen Golf,2022-10,Hečbekas,14 800 €,Benzinas,Automatinė,"2.0 l., 180 kW",69 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2022-benzinas-29943175.html
+Volkswagen Golf,2019-08,Hečbekas,14 900 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",120 352 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2019-dyzelinas-29921667.html
+Volkswagen Golf,2020-11,Hečbekas,15 500 €,Benzinas / elektra,Automatinė,"1.0 l., 81 kW",99 548 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2020-benzinas-elektra-29989267.html
+Volkswagen Golf,2020-09,Hečbekas,17 700 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",106 031 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2020-benzinas-elektra-29956569.html
+Volkswagen Golf,2024-09,Hečbekas,17 900 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",49 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-elektra-30038345.html
+Volkswagen Golf,2021,Universalas,18 300 €,Benzinas / elektra,Automatinė,"1.5 l., 96 kW",49 000 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2021-benzinas-elektra-30023997.html
+Volkswagen Golf,2017-04,Hečbekas,19 000 €,Benzinas,Mechaninė,"2.0 l., 228 kW",49 877 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2017-benzinas-29971271.html
+Volkswagen Golf,2024-03,Universalas,19 750 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",19 950 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2024-benzinas-elektra-29972877.html
+Volkswagen Golf,2024-06,Universalas,19 850 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",43 582 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2024-dyzelinas-30015483.html
+Volkswagen Golf,2023-07,Universalas,22 400 €,Benzinas,Automatinė,"1.5 l., 106 kW",52 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2023-benzinas-29748573.html
+Volkswagen Golf,2023-12,Hečbekas,26 900 €,Benzinas,Automatinė,"2.0 l., 180 kW",19 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2023-benzinas-28286542.html
+Volkswagen Golf,2024,Universalas,,Benzinas / elektra,Automatinė,110 kW,,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-universalas-2024-benzinas-elektra-29162935.html
+Volkswagen Golf,2023-02,Hečbekas,36 500 €,Dyzelinas,Automatinė,"2.0 l., 147 kW",100 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2023-dyzelinas-29989579.html
+Volkswagen Golf,2002-05,Hečbekas,800 €,Dyzelinas,Mechaninė,"1.9 l., 81 kW",236 547 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2002-dyzelinas-30047307.html
+Volkswagen Golf,1988-09,Hečbekas,850 €,Benzinas,Mechaninė,"1.6 l.,",256 871 km,Varėna,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-1988-benzinas-30042829.html
+Volkswagen Golf,1999,Hečbekas,899 €,Benzinas,Mechaninė,"1.4 l., 55 kW",336 720 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-1999-benzinas-30040217.html
+Volkswagen Golf,1999-01,Hečbekas,1 200 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-1999-dyzelinas-29986931.html
+Volkswagen Golf,2003,Universalas,1 300 €,Dyzelinas,Mechaninė,"1.9 l., 74 kW",281 256 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2003-dyzelinas-29911855.html
+Volkswagen Golf,2002-05,Universalas,1 450 €,Dyzelinas,Mechaninė,81 kW,320 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-universalas-2002-dyzelinas-30012917.html
+Volkswagen Golf,2004,Hečbekas,1 750 €,Benzinas,Mechaninė,"1.6 l., 85 kW",243 165 km,Šalčininkai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2004-benzinas-30007091.html
+Volkswagen Golf,2006-04,Hečbekas,1 850 €,Benzinas,Mechaninė,"1.6 l., 85 kW",195 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2006-benzinas-29905632.html
+Volkswagen Golf,2009-05,Universalas,2 150 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",234 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-30026855.html
+Volkswagen Golf,2009,Universalas,2 649 €,Benzinas,Mechaninė,"1.4 l., 90 kW",140 000 km,Rokiškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2009-benzinas-29745519.html
+Volkswagen Golf,2008-01,Universalas,2 650 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",290 000 km,Biržai,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-30034193.html
+Volkswagen Golf,2011-08,Universalas,2 700 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-30011503.html
+Volkswagen Golf,2010,Hečbekas,2 700 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",337 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-30003579.html
+Volkswagen Golf,2004-10,Hečbekas,2 750 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",484 300 km,Varėna,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2004-dyzelinas-29920289.html
+Volkswagen Golf,2006-11,Hečbekas,2 750 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",331 985 km,Šilutė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2006-dyzelinas-29419540.html
+Volkswagen Golf,2005-01,Kupė (Coupe),2 800 €,Dyzelinas,Mechaninė,"2.0 l., 130 kW",243 571 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-kupe-coupe-2005-dyzelinas-28886005.html
+Volkswagen Golf,2010-04,Hečbekas,2 800 €,Benzinas,Mechaninė,"1.4 l., 59 kW",199 991 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-29271014.html
+Volkswagen Golf,2011-07,Hečbekas,2 800 €,Benzinas,Mechaninė,"1.4 l., 90 kW",270 908 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2011-benzinas-28753653.html
+Volkswagen Golf,2011-01,Universalas,2 860 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",292 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29989735.html
+Volkswagen Golf,2007-07,Universalas,2 900 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",393 720 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2007-dyzelinas-29375698.html
+Volkswagen Golf,2008-12,Universalas,2 950 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",228 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-29974617.html
+Volkswagen Golf,2009-08,Universalas,2 999 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",246 700 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-29995309.html
+Volkswagen Golf,2008-03,Sedanas,3 000 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",398 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-sedanas-2008-dyzelinas-30046735.html
+Volkswagen Golf,2009-01,Hečbekas,3 000 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",288 929 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-30005325.html
+Volkswagen Golf,2013-10,Universalas,3 200 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",320 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29940271.html
+Volkswagen Golf,2012-04,Hečbekas,3 200 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",248 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2012-dyzelinas-30011211.html
+Volkswagen Golf,2012-07,Universalas,3 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",379 890 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-30012095.html
+Volkswagen Golf,2010,Universalas,3 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",315 000 km,Molėtai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-30003039.html
+Volkswagen Golf,2009-12,Hečbekas,3 350 €,Benzinas,Mechaninė,"1.4 l., 90 kW",258 000 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-30023365.html
+Volkswagen Golf,2009-01,Hečbekas,3 450 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",243 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-30034539.html
+Volkswagen Golf,2013-05,Universalas,3 499 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",300 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-30001623.html
+Volkswagen Golf,2011-09,Hečbekas,3 600 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",267 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-30037769.html
+Volkswagen Golf,2014-08,Universalas,3 750 €,Benzinas,Automatinė,"1.4 l., 92 kW",295 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2014-benzinas-29989881.html
+Volkswagen Golf,2012-12,Universalas,3 840 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",270 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29980479.html
+Volkswagen Golf,2012-01,Universalas,3 850 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",283 000 km,Joniškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29809717.html
+Volkswagen Golf,2011-03,Universalas,3 950 €,Benzinas,Automatinė,"1.2 l., 77 kW",320 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2011-benzinas-29928717.html
+Volkswagen Golf,2010-09,Universalas,3 950 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",225 275 km,Kelmė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29896146.html
+Volkswagen Golf,2009,Hečbekas,4 200 €,Benzinas,Mechaninė,"1.4 l., 118 kW",326 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29928063.html
+Volkswagen Golf,2014-04,Universalas,4 250 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",287 803 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-28075734.html
+Volkswagen Golf,2014-04,Hečbekas,4 499 €,Benzinas,Mechaninė,"1.2 l., 63 kW",246 564 km,Kalvarija,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-29311824.html
+Volkswagen Golf,2017,Universalas,4 600 €,Benzinas / dujos,Automatinė,"1.4 l., 150 kW",560 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2017-benzinas-dujos-29365346.html
+Volkswagen Golf,2010-05,Hečbekas,4 789 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",263 159 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-29901614.html
+Volkswagen Golf,2011-07,Hečbekas,4 900 €,Benzinas,Automatinė,"1.2 l., 77 kW",302 700 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2011-benzinas-30023565.html
+Volkswagen Golf,2014,Hečbekas,5 150 €,Benzinas,Mechaninė,"1.2 l., 63 kW",200 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-30032719.html
+Volkswagen Golf,2013-05,Hečbekas,5 200 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",215 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-30048095.html
+Volkswagen Golf,2014,Universalas,5 500 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",231 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-30048359.html
+Volkswagen Golf,2014-06,Hečbekas,5 500 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",139 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-30007759.html
+Volkswagen Golf,2012-03,Hečbekas,5 500 €,Benzinas,Mechaninė,"1.4 l., 90 kW",250 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-30023539.html
+Volkswagen Golf,2013-02,Hečbekas,5 550 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",220 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-30033091.html
+Volkswagen Golf,2014-02,Universalas,5 550 €,Dyzelinas,Mechaninė,"1.6 l., 66 kW",254 000 km,Kuršėnai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29970649.html
+Volkswagen Golf,2015,Hečbekas,5 700 €,Benzinas,Mechaninė,"1.4 l., 92 kW",207 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-27657592.html
+Volkswagen Golf,2016-11,Universalas,5 700 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",356 312 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29784157.html
+Volkswagen Golf,2014,Hečbekas,5 500 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",280 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-29987295.html
+Volkswagen Golf,1990-04,Hečbekas,5 950 €,Dyzelinas,Mechaninė,"1.6 l., 40 kW",238 030 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-1990-dyzelinas-29784211.html
+Volkswagen Golf,2013-12,Hečbekas,5 950 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",220 500 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29991973.html
+Volkswagen Golf,2014-04,Universalas,5 990 €,Benzinas,Mechaninė,"1.2 l., 77 kW",208 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2014-benzinas-29708497.html
+Volkswagen Golf,2013-12,Universalas,6 300 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",255 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29987493.html
+Volkswagen Golf,2016-08,Universalas,6 390 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",287 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29992627.html
+Volkswagen Golf,2015-06,Hečbekas,6 499 €,Benzinas,Automatinė,"1.2 l., 81 kW",251 000 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2015-benzinas-30039107.html
+Volkswagen Golf,2014-02,Universalas,6 500 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",288 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29898590.html
+Volkswagen Golf,2013-07,Hečbekas,6 500 €,Benzinas,Automatinė,"1.4 l., 103 kW",127 100 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2013-benzinas-29789531.html
+Volkswagen Golf,2016-04,Universalas,7 500 €,Benzinas,Automatinė,"1.4 l., 81 kW",129 738 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2016-benzinas-29784135.html
+Volkswagen Golf,2015-12,Hečbekas,7 600 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",243 635 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2015-dyzelinas-30038587.html
+Volkswagen Golf,2017-11,Universalas,7 650 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",212 890 km,Prienai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29924029.html
+Volkswagen Golf,2017-10,Universalas,7 700 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",286 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29978063.html
+Volkswagen Golf,2014-05,Hečbekas,8 400 €,Benzinas,Mechaninė,"1.2 l., 81 kW",113 852 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-28996657.html
+Volkswagen Golf,2012-12,Hečbekas,8 500 €,Dyzelinas,Mechaninė,"2.0 l., 125 kW",280 000 km,Rokiškis,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-dyzelinas-29988043.html
+Volkswagen Golf,2016-12,Universalas,8 700 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",290 000 km,Rokiškis,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2016-dyzelinas-29398090.html
+Volkswagen Golf,2018-02,Universalas,8 900 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",193 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29917245.html
+Volkswagen Golf,2019-08,Universalas,9 000 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",175 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2019-dyzelinas-30011897.html
+Volkswagen Golf,2017,Universalas,9 300 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",194 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2017-dyzelinas-30021959.html
+Volkswagen Golf,2018-06,Universalas,10 300 €,Benzinas,Mechaninė,"1.5 l., 96 kW",210 000 km,Šilalė,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2018-benzinas-29925919.html
+Volkswagen Golf,2017-11,Hečbekas,10 500 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",142 900 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2017-dyzelinas-29989601.html
+Volkswagen Golf,2019-12,Hečbekas,10 900 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",94 437 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2019-elektra-29813707.html
+Volkswagen Golf,2018-05,Hečbekas,10 900 €,Benzinas,Automatinė,"1.4 l., 92 kW",131 531 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-29960403.html
+Volkswagen Golf,2012-12,Hečbekas,11 000 €,Benzinas,Automatinė,"2.0 l., 199 kW",194 000 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-benzinas-28913863.html
+Volkswagen Golf,2022-08,Universalas,11 300 €,Dyzelinas,Automatinė,"2.0 l.,",270 168 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-29896190.html
+Volkswagen Golf,2019-02,Hečbekas,11 800 €,Benzinas,Automatinė,"1.0 l., 85 kW",98 100 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2019-benzinas-29928017.html
+Volkswagen Golf,2017-02,Hečbekas,11 900 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",75 513 km,,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2017-dyzelinas-29677769.html
+Volkswagen Golf,2021-08,Hečbekas,11 990 €,Dyzelinas,Mechaninė,"2.0 l., 85 kW",293 500 km,"Rīga, Latvija",https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2021-dyzelinas-29911007.html
+Volkswagen Golf,2017,Hečbekas,12 500 €,Benzinas,Automatinė,"1.8 l., 124 kW",88 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-2017-benzinas-29583417.html
+Volkswagen Golf,2022-10,Universalas,13 500 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",90 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2022-benzinas-elektra-30021093.html
+Volkswagen Golf,2015,Hečbekas,14 500 €,Benzinas,Automatinė,"2.0 l., 280 kW",216 000 km,Kazlų Rūda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-benzinas-30010891.html
+Volkswagen Golf,2021-08,Hečbekas,14 600 €,Benzinas,Mechaninė,"2.0 l., 168 kW",125 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2021-benzinas-29919419.html
+Volkswagen Golf,2023-10,Hečbekas,17 400 €,Benzinas / elektra,Automatinė,"1.0 l., 81 kW",34 912 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2023-benzinas-elektra-29667725.html
+Volkswagen Golf,2019-04,Hečbekas,17 950 €,Benzinas,Automatinė,"2.0 l., 213 kW",168 500 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2019-benzinas-30042069.html
+Volkswagen Golf,2024-04,Hečbekas,22 500 €,Benzinas,Automatinė,"1.0 l., 81 kW",10 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2024-benzinas-26898053.html
+Volkswagen Golf,1993-07,Hečbekas,400 €,Benzinas,Mechaninė,"1.6 l., 55 kW",166 000 km,Pasvalys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-1993-benzinas-29678267.html
+Volkswagen Golf,2002,Hečbekas,550 €,Benzinas,Mechaninė,"1.4 l., 55 kW",190 000 km,Molėtai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2002-benzinas-30031809.html
+Volkswagen Golf,1994,Hečbekas,750 €,Benzinas,Mechaninė,"1.4 l., 40 kW",200 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-1994-benzinas-29558803.html
+Volkswagen Golf,2004-07,Hečbekas,800 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",367 313 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2004-dyzelinas-29901924.html
+Volkswagen Golf,1995,Hečbekas,800 €,Benzinas,Mechaninė,"2.0 l., 85 kW",221 250 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-1995-benzinas-29873388.html
+Volkswagen Golf,1999-04,Hečbekas,800 €,Dyzelinas,Mechaninė,66 kW,362 780 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-hecbekas-1999-dyzelinas-29766031.html
+Volkswagen Golf,2007-01,Hečbekas,850 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",308 127 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2007-dyzelinas-30034975.html
+Volkswagen Golf,1993-03,Hečbekas,850 €,Dyzelinas,Mechaninė,"1.9 l., 47 kW",242 000 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-1993-dyzelinas-30009965.html
+Volkswagen Golf,2007,Hečbekas,950 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",268 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2007-dyzelinas-29227466.html
+Volkswagen Golf,2004-01,Universalas,999 €,Dyzelinas,Mechaninė,"1.9 l., 74 kW",404 500 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2004-dyzelinas-29869472.html
+Volkswagen Golf,1998-09,Hečbekas,1 000 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",433 190 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-1998-dyzelinas-29915081.html
+Volkswagen Golf,1991-02,Hečbekas,1 100 €,Dyzelinas,Mechaninė,"1.6 l., 44 kW",350 000 km,Pasvalys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-1991-dyzelinas-29752845.html
+Volkswagen Golf,2008-08,Universalas,1 200 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",350 000 km,Šilutė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-29814815.html
+Volkswagen Golf,2006-12,Sedanas,1 300 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",377 073 km,Kelmė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-sedanas-2006-dyzelinas-30024123.html
+Volkswagen Golf,2004,Hečbekas,1 370 €,Benzinas,Mechaninė,"1.4 l., 66 kW",,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2004-benzinas-30011423.html
+Volkswagen Golf,1998-06,Hečbekas,1 400 €,Benzinas,Mechaninė,"1.6 l., 74 kW",156 500 km,Trakai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-1998-benzinas-29574415.html
+Volkswagen Golf,2008-03,Hečbekas,1 450 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",240 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2008-dyzelinas-29998597.html
+Volkswagen Golf,2003-12,Hečbekas,1 490 €,Benzinas,Mechaninė,"1.4 l., 55 kW",156 300 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2003-benzinas-29812661.html
+Volkswagen Golf,2001-11,Universalas,1 500 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",300 000 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2001-dyzelinas-30034305.html
+Volkswagen Golf,2005-10,Hečbekas,1 550 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",254 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2005-dyzelinas-29671325.html
+Volkswagen Golf,2005,Hečbekas,1 550 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",389 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2005-dyzelinas-29608211.html
+Volkswagen Golf,2004,Hečbekas,1 600 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",267 980 km,Gargždai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2004-dyzelinas-29564439.html
+Volkswagen Golf,2007-10,Universalas,1 650 €,Benzinas,Mechaninė,"1.4 l., 103 kW",306 900 km,Šilutė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2007-benzinas-29814575.html
+Volkswagen Golf,2007-12,Universalas,1 800 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",333 550 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2007-dyzelinas-29880184.html
+Volkswagen Golf,2011-06,Universalas,1 899 €,Dyzelinas,Mechaninė,"1.6 l., 66 kW",431 541 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-28126910.html
+Volkswagen Golf,2009-01,Universalas,1 900 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-28801895.html
+Volkswagen Golf,2009-08,Hečbekas,1 950 €,Benzinas,Mechaninė,"1.6 l., 75 kW",280 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2009-benzinas-30014643.html
+Volkswagen Golf,2008-08,Hečbekas,1 950 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2008-dyzelinas-29848984.html
+Volkswagen Golf,2007-03,Hečbekas,1 950 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",400 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2007-dyzelinas-29749847.html
+Volkswagen Golf,2008,Hečbekas,1 999 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",293 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2008-dyzelinas-29757933.html
+Volkswagen Golf,2009-11,Hečbekas,2 000 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",344 700 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29820365.html
+Volkswagen Golf,2004-11,Hečbekas,2 000 €,Benzinas,Mechaninė,"1.6 l., 75 kW",214 900 km,Mažeikiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2004-benzinas-29760719.html
+Volkswagen Golf,2007-07,Vienatūris,2 150 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",267 000 km,Skuodas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-vienaturis-2007-dyzelinas-29987217.html
+Volkswagen Golf,2008-03,Hečbekas,2 150 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",448 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2008-dyzelinas-29975265.html
+Volkswagen Golf,2010,Hečbekas,2 150 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",260 000 km,Kuršėnai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2010-dyzelinas-29675897.html
+Volkswagen Golf,2000-12,Universalas,2 150 €,Dyzelinas,Mechaninė,"1.9 l., 66 kW",275 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2000-dyzelinas-29788941.html
+Volkswagen Golf,2008-12,Universalas,2 199 €,Benzinas,Automatinė,"1.4 l., 90 kW",248 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2008-benzinas-27501839.html
+Volkswagen Golf,2008-03,Hečbekas,2 200 €,Benzinas,Mechaninė,"1.6 l., 75 kW",195 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2008-benzinas-29766075.html
+Volkswagen Golf,2009-03,Hečbekas,2 200 €,Benzinas,Automatinė,"1.4 l., 118 kW",229 598 km,Kupiškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29202907.html
+Volkswagen Golf,2002-07,Universalas,2 200 €,Dyzelinas,Mechaninė,"1.9 l., 96 kW",298 128 km,Pakruojis,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2002-dyzelinas-29881008.html
+Volkswagen Golf,2004,Hečbekas,2 200 €,Dyzelinas,Automatinė,"1.9 l., 77 kW",291 600 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2004-dyzelinas-29761765.html
+Volkswagen Golf,2009,Universalas,2 250 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",253 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-29847402.html
+Volkswagen Golf,2003-11,Hečbekas,2 350 €,Dyzelinas,Mechaninė,"1.9 l., 74 kW",269 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-hecbekas-2003-dyzelinas-29962169.html
+Volkswagen Golf,2010-04,Universalas,2 400 €,Dyzelinas,Automatinė,"2.0 l.,",174 413 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2010-dyzelinas-29605521.html
+Volkswagen Golf,2000-06,Kabrioletas,2 499 €,Dyzelinas,Mechaninė,"1.9 l.,",50 350 km,Šilalė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-kabrioletas-2000-dyzelinas-28467725.html
+Volkswagen Golf,2008-12,Universalas,2 500 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",272 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-29866588.html
+Volkswagen Golf,2010-06,Hečbekas,2 500 €,Dyzelinas,Mechaninė,"1.6 l., 66 kW",354 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-30042865.html
+Volkswagen Golf,2009,Hečbekas,2 500 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",463 239 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29626647.html
+Volkswagen Golf,2012-06,Hečbekas,2 650 €,Benzinas,Mechaninė,"1.4 l., 90 kW",176 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-29738381.html
+Volkswagen Golf,2008,Universalas,2 700 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",286 423 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2008-dyzelinas-30034749.html
+Volkswagen Golf,2012-05,Universalas,2 700 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",267 855 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-30008485.html
+Volkswagen Golf,2015-06,Universalas,2 750 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",322 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29723541.html
+Volkswagen Golf,1990,Hečbekas,2 800 €,Benzinas,Mechaninė,"1.8 l., 79 kW",220 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-1990-benzinas-25954312.html
+Volkswagen Golf,2010-11,Universalas,2 999 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",230 120 km,Rokiškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29832098.html
+Volkswagen Golf,2011-10,Universalas,2 999 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",335 000 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29824014.html
+Volkswagen Golf,2010-08,Hečbekas,3 000 €,Benzinas,Mechaninė,"1.4 l., 90 kW",169 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2010-benzinas-29014109.html
+Volkswagen Golf,2009,Hečbekas,3 000 €,Benzinas,Mechaninė,"1.4 l., 59 kW",128 233 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29702563.html
+Volkswagen Golf,2011-05,Hečbekas,3 100 €,Benzinas,Mechaninė,"1.4 l., 59 kW",246 047 km,Plungė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2011-benzinas-29863462.html
+Volkswagen Golf,2006-06,Hečbekas,3 100 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2006-dyzelinas-29051439.html
+Volkswagen Golf,2010-10,Universalas,3 200 €,Benzinas,Mechaninė,"1.2 l., 77 kW",307 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2010-benzinas-29769663.html
+Volkswagen Golf,2013-04,Universalas,3 200 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",280 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-30008435.html
+Volkswagen Golf,2008-04,Hečbekas,3 200 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",326 521 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2008-dyzelinas-29800197.html
+Volkswagen Golf,2008-04,Hečbekas,3 223 €,Benzinas,Automatinė,"1.4 l., 103 kW",318 500 km,Ignalina,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2008-benzinas-29763801.html
+Volkswagen Golf,2009,Universalas,3 250 €,Dyzelinas,Mechaninė,"1.9 l., 77 kW",325 000 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-9-l-universalas-2009-dyzelinas-29865276.html
+Volkswagen Golf,2010-05,Hečbekas,3 333 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",240 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-29785897.html
+Volkswagen Golf,2009-11,Universalas,3 400 €,Dyzelinas,Automatinė,"2.0 l., 103 kW",,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2009-dyzelinas-29850066.html
+Volkswagen Golf,2012-07,Universalas,3 400 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",284 824 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29664979.html
+Volkswagen Golf,2012-04,Hečbekas,3 400 €,Benzinas,Mechaninė,"1.2 l., 77 kW",361 828 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2012-benzinas-28144568.html
+Volkswagen Golf,2012,Universalas,3 450 €,Benzinas,Mechaninė,"1.4 l., 90 kW",248 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2012-benzinas-27693990.html
+Volkswagen Golf,2015,Universalas,3 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",430 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2015-dyzelinas-30039177.html
+Volkswagen Golf,2011-03,Hečbekas,3 500 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",201 009 km,Šakiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2011-dyzelinas-29848492.html
+Volkswagen Golf,2001-03,Hečbekas,3 550 €,Benzinas / dujos,Mechaninė,"2.8 l., 150 kW",310 143 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-8-l-hecbekas-2001-benzinas-dujos-29837568.html
+Volkswagen Golf,2009-06,Hečbekas,3 700 €,Benzinas,Mechaninė,"1.6 l., 75 kW",,Vilkaviškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2009-benzinas-29215784.html
+Volkswagen Golf,2012-09,Hečbekas,3 700 €,Benzinas,Mechaninė,"1.4 l., 90 kW",290 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-29894080.html
+Volkswagen Golf,2013-02,Universalas,3 700 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",233 205 km,Pasvalys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29808223.html
+Volkswagen Golf,2010-12,Universalas,3 750 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",223 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29954547.html
+Volkswagen Golf,2009,Hečbekas,3 799 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",235 736 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29587579.html
+Volkswagen Golf,2012-10,Hečbekas,3 800 €,Benzinas,Mechaninė,"1.4 l., 90 kW",244 500 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-29803663.html
+Volkswagen Golf,2010-05,Universalas,3 800 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",178 000 km,Vilkaviškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29760643.html
+Volkswagen Golf,2009,Hečbekas,3 800 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",258 722 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2009-dyzelinas-27607023.html
+Volkswagen Golf,2009-02,Hečbekas,3 850 €,Dyzelinas,Mechaninė,"2.0 l., 81 kW",279 200 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29556675.html
+Volkswagen Golf,2009-12,Hečbekas,3 850 €,Benzinas,Mechaninė,"2.0 l., 147 kW",340 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-benzinas-29890686.html
+Volkswagen Golf,2012-07,Hečbekas,3 900 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",291 709 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2012-dyzelinas-29815269.html
+Volkswagen Golf,2011-11,Universalas,3 999 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",225 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29840560.html
+Volkswagen Golf,2013-02,Hečbekas,3 999 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",292 000 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29765573.html
+Volkswagen Golf,2012-08,Universalas,3 999 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",280 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29606305.html
+Volkswagen Golf,2013-10,Universalas,4 000 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",241 000 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2013-dyzelinas-29893576.html
+Volkswagen Golf,2011-01,Universalas,4 100 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",290 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2011-dyzelinas-29628353.html
+Volkswagen Golf,2012,Universalas,4 100 €,Dyzelinas,Automatinė,"2.0 l., 103 kW",360 020 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2012-dyzelinas-29793545.html
+Volkswagen Golf,2009-07,Hečbekas,4 200 €,Dyzelinas,Automatinė,"2.0 l., 81 kW",420 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2009-dyzelinas-29769203.html
+Volkswagen Golf,2010-08,Hečbekas,4 200 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",230 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2010-dyzelinas-29986105.html
+Volkswagen Golf,2010,Universalas,4 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",247 000 km,Vilkaviškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2010-dyzelinas-29885602.html
+Volkswagen Golf,2015-03,Universalas,4 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",336 177 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29263718.html
+Volkswagen Golf,2012-10,Hečbekas,4 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",233 000 km,Gargždai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2012-dyzelinas-27600721.html
+Volkswagen Golf,2005-01,Hečbekas,4 350 €,Benzinas,Mechaninė,"2.0 l.,",255 650 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2005-benzinas-29761909.html
+Volkswagen Golf,2012,Universalas,4 400 €,Dyzelinas,Mechaninė,"1.6 l., 66 kW",185 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29565165.html
+Volkswagen Golf,2013-05,Universalas,4 400 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",2 699 223 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2013-dyzelinas-29979931.html
+Volkswagen Golf,2016-04,Universalas,4 500 €,Benzinas,Automatinė,"1.4 l., 92 kW",180 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2016-benzinas-29692391.html
+Volkswagen Golf,2014-01,Universalas,4 700 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",340 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29773327.html
+Volkswagen Golf,2005-12,Hečbekas,4 777 €,Benzinas,Mechaninė,220 kW,250 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-hecbekas-2005-benzinas-29742421.html
+Volkswagen Golf,2012-10,Universalas,4 850 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",187 027 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2012-dyzelinas-29656223.html
+Volkswagen Golf,2011-07,Universalas,4 900 €,Benzinas,Automatinė,77 kW,215 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-universalas-2011-benzinas-28220558.html
+Volkswagen Golf,2015-07,Universalas,4 900 €,Benzinas / dujos,Automatinė,"1.4 l., 110 kW",345 258 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2015-benzinas-dujos-29815185.html
+Volkswagen Golf,2012-10,Hečbekas,4 999 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",236 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-dyzelinas-29821805.html
+Volkswagen Golf,2020-01,Universalas,5 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",181 632 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2020-dyzelinas-26835303.html
+Volkswagen Golf,2010-03,Universalas,5 000 €,Dyzelinas,Mechaninė,"2.0 l., 103 kW",279 000 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2010-dyzelinas-29441590.html
+Volkswagen Golf,2009-08,Hečbekas,5 100 €,Benzinas,Automatinė,"1.4 l., 118 kW",224 392 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2009-benzinas-29722865.html
+Volkswagen Golf,2014,Hečbekas,5 100 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",338 878 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-dyzelinas-26823597.html
+Volkswagen Golf,2010-11,Hečbekas,5 250 €,Benzinas,Automatinė,"1.2 l., 77 kW",190 743 km,Mažeikiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2010-benzinas-29696747.html
+Volkswagen Golf,2013-06,Hečbekas,5 450 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",231 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29768307.html
+Volkswagen Golf,2014,Universalas,5 500 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",239 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29745211.html
+Volkswagen Golf,2015-06,Universalas,5 500 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",383 206 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29494824.html
+Volkswagen Golf,2012,Hečbekas,5 600 €,Benzinas,Automatinė,"1.2 l., 77 kW",189 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2012-benzinas-29747961.html
+Volkswagen Golf,2014-02,Universalas,5 600 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",318 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2014-dyzelinas-29754887.html
+Volkswagen Golf,2018-01,Universalas,5 600 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",227 900 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29427466.html
+Volkswagen Golf,2012-12,Hečbekas,5 699 €,Benzinas,Mechaninė,"1.4 l., 90 kW",229 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2012-benzinas-29136749.html
+Volkswagen Golf,2016-12,Universalas,5 700 €,Benzinas,Automatinė,"1.8 l., 125 kW",198 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-universalas-2016-benzinas-29828576.html
+Volkswagen Golf,2016-05,Universalas,5 700 €,Benzinas,Mechaninė,"1.2 l., 81 kW",163 849 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-universalas-2016-benzinas-29599221.html
+Volkswagen Golf,2014-09,Hečbekas,5 750 €,Benzinas,Mechaninė,"1.2 l., 77 kW",147 500 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-29698047.html
+Volkswagen Golf,2014-04,Universalas,5 900 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",205 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29726959.html
+Volkswagen Golf,2016-07,Universalas,5 900 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",249 898 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29731917.html
+Volkswagen Golf,2014-10,Universalas,5 999 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",310 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29697545.html
+Volkswagen Golf,2015-04,Hečbekas,6 000 €,Benzinas,Mechaninė,"1.2 l., 77 kW",159 311 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2015-benzinas-29919703.html
+Volkswagen Golf,2013-06,Hečbekas,6 000 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",197 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-29872524.html
+Volkswagen Golf,2013-09,Universalas,6 000 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",305 600 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2013-dyzelinas-29971349.html
+Volkswagen Golf,2015-11,Universalas,6 000 €,Benzinas,Automatinė,"1.8 l., 125 kW",180 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-universalas-2015-benzinas-29749375.html
+Volkswagen Golf,2015-03,Hečbekas,6 100 €,Benzinas,Mechaninė,"1.4 l., 90 kW",194 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-29534261.html
+Volkswagen Golf,2014-06,Universalas,6 290 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",272 000 km,Druskininkai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29658033.html
+Volkswagen Golf,2013-01,Hečbekas,6 300 €,Dyzelinas,Mechaninė,"1.6 l., 77 kW",274 000 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2013-dyzelinas-28363344.html
+Volkswagen Golf,2014-04,Hečbekas,6 400 €,Benzinas,Mechaninė,"1.4 l., 103 kW",201 500 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2014-benzinas-29494854.html
+Volkswagen Golf,2014-09,Universalas,6 500 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",291 213 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-28758351.html
+Volkswagen Golf,2015-07,Universalas,6 500 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",189 448 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2015-dyzelinas-29507248.html
+Volkswagen Golf,2016-09,Hečbekas,6 500 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",203 598 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2016-dyzelinas-29506782.html
+Volkswagen Golf,2016-09,Universalas,6 500 €,Benzinas,Mechaninė,"1.4 l., 92 kW",224 509 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2016-benzinas-29471974.html
+Volkswagen Golf,2006-10,Hečbekas,6 500 €,Benzinas,Automatinė,"1.6 l., 75 kW",82 767 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2006-benzinas-29928517.html
+Volkswagen Golf,2016-11,Hečbekas,6 500 €,"Elektra, 24 kWh",Automatinė,"Elektra, 24 kWh",197 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-24-kwh-hecbekas-2016-elektra-29752419.html
+Volkswagen Golf,2016,Universalas,6 600 €,Benzinas,Mechaninė,"1.8 l., 127 kW",109 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-universalas-2016-benzinas-29285374.html
+Volkswagen Golf,2015-12,Hečbekas,6 600 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",234 000 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-dyzelinas-29821699.html
+Volkswagen Golf,2018-05,Universalas,6 700 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",299 999 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-29891194.html
+Volkswagen Golf,2013-02,Hečbekas,6 750 €,Benzinas,Automatinė,"1.4 l., 103 kW",126 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2013-benzinas-29881012.html
+Volkswagen Golf,2014-07,Universalas,6 800 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",181 000 km,Kaišiadorys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29688631.html
+Volkswagen Golf,2015-04,Hečbekas,6 850 €,Elektra,Automatinė,85 kW,101 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-hecbekas-2015-elektra-29691703.html
+Volkswagen Golf,2013,Universalas,6 888 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",336 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2013-dyzelinas-29311518.html
+Volkswagen Golf,2017,Hečbekas,6 900 €,Benzinas,Mechaninė,"1.0 l., 66 kW",212 000 km,Plungė,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2017-benzinas-28690327.html
+Volkswagen Golf,2016-10,Universalas,6 950 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",270 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-28692253.html
+Volkswagen Golf,2014-03,Universalas,6 990 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",220 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2014-dyzelinas-29820441.html
+Volkswagen Golf,2018-04,Hečbekas,6 999 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",317 000 km,"Rīga, Latvija",https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2018-dyzelinas-29084161.html
+Volkswagen Golf,2012-12,Hečbekas,7 000 €,Dyzelinas,Automatinė,"2.0 l., 125 kW",268 000 km,Radviliškis,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-dyzelinas-29733115.html
+Volkswagen Golf,2014-10,Universalas,7 139 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",351 300 km,Kėdainiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2014-dyzelinas-27057723.html
+Volkswagen Golf,2012-11,Hečbekas,7 200 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",293 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2012-dyzelinas-29786349.html
+Volkswagen Golf,2018-05,Universalas,7 200 €,Dyzelinas,Mechaninė,"2.0 l., 110 kW",204 032 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2018-dyzelinas-29385776.html
+Volkswagen Golf,2016-05,Universalas,7 200 €,Dyzelinas,Automatinė,"1.6 l., 81 kW",230 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29732701.html
+Volkswagen Golf,2011-10,Hečbekas,7 500 €,Dyzelinas,Automatinė,"2.0 l., 125 kW",144 400 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2011-dyzelinas-29433938.html
+Volkswagen Golf,2014-12,Hečbekas,7 500 €,Dyzelinas,Automatinė,"1.6 l., 77 kW",287 700 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2014-dyzelinas-29640825.html
+Volkswagen Golf,2017-05,Universalas,7 500 €,Benzinas,Mechaninė,"1.4 l., 92 kW",,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2017-benzinas-29905480.html
+Volkswagen Golf,2018-04,Universalas,7 500 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2018-dyzelinas-30001381.html
+Volkswagen Golf,2017-07,Universalas,7 500 €,Benzinas,Automatinė,"1.4 l., 92 kW",221 000 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2017-benzinas-29848876.html
+Volkswagen Golf,2017-10,Universalas,7 700 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",211 000 km,"Rīga, Latvija",https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29883792.html
+Volkswagen Golf,2017,Universalas,7 800 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",207 000 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29220398.html
+Volkswagen Golf,2016-02,Universalas,7 900 €,Benzinas,Automatinė,"1.4 l., 92 kW",319 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2016-benzinas-28398048.html
+Volkswagen Golf,2016-09,Universalas,7 990 €,Dyzelinas,Mechaninė,"1.6 l., 81 kW",187 963 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2016-dyzelinas-29677933.html
+Volkswagen Golf,2014,Hečbekas,8 000 €,Benzinas,Mechaninė,"1.2 l., 77 kW",188 999 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-2-l-hecbekas-2014-benzinas-29503602.html
+Volkswagen Golf,2015-02,Hečbekas,8 350 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",,Prienai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-dyzelinas-30021455.html
+Volkswagen Golf,2014-11,Hečbekas,8 500 €,Benzinas,Automatinė,"1.8 l., 124 kW",103 829 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-2014-benzinas-29864868.html
+Volkswagen Golf,2013-03,Hečbekas,8 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",305 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2013-dyzelinas-29867412.html
+Volkswagen Golf,2013-04,Hečbekas,8 700 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",235 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2013-dyzelinas-29739981.html
+Volkswagen Golf,2017-11,Hečbekas,8 888 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",166 666 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2017-elektra-29012933.html
+Volkswagen Golf,2017,Universalas,8 900 €,Benzinas,Automatinė,"1.8 l., 125 kW",146 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-universalas-2017-benzinas-29905274.html
+Volkswagen Golf,2015-03,Hečbekas,9 400 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",88 000 km,Mažeikiai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-dyzelinas-29607331.html
+Volkswagen Golf,2015-04,Hečbekas,9 500 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",266 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-29749801.html
+Volkswagen Golf,2015-07,Hečbekas,9 600 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",228 900 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-29357296.html
+Volkswagen Golf,2018-01,Universalas,9 700 €,Benzinas / dujos,Automatinė,"1.4 l., 92 kW",168 850 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2018-benzinas-dujos-29987117.html
+Volkswagen Golf,2016-01,Hečbekas,9 850 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",240 000 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2016-benzinas-elektra-29818559.html
+Volkswagen Golf,2020-03,Universalas,9 900 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",203 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2020-dyzelinas-29796029.html
+Volkswagen Golf,2017-10,Hečbekas,9 900 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",127 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2017-dyzelinas-29732205.html
+Volkswagen Golf,2019-03,Universalas,9 900 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",231 610 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2019-dyzelinas-29292084.html
+Volkswagen Golf,2018-02,Hečbekas,9 950 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",127 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2018-dyzelinas-29588711.html
+Volkswagen Golf,2017-04,Universalas,10 200 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",151 000 km,Jonava,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2017-dyzelinas-29219186.html
+Volkswagen Golf,2018-12,Hečbekas,10 500 €,Benzinas,Automatinė,"1.4 l., 110 kW",211 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2018-benzinas-29966927.html
+Volkswagen Golf,2021,Hečbekas,10 890 €,Dyzelinas,Mechaninė,"2.0 l., 85 kW",183 500 km,"Mārupe, Latvija",https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2021-dyzelinas-29704531.html
+Volkswagen Golf,2019,Hečbekas,11 000 €,Benzinas,Automatinė,"1.5 l., 96 kW",152 500 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2019-benzinas-29883728.html
+Volkswagen Golf,2018-05,Hečbekas,11 200 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",88 300 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2018-elektra-30027157.html
+Volkswagen Golf,2020-07,Universalas,11 300 €,Benzinas,Automatinė,"1.5 l., 110 kW",62 000 km,Šilutė,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-29582121.html
+Volkswagen Golf,2017-11,Hečbekas,11 440 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",102 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2017-elektra-29772869.html
+Volkswagen Golf,2020-02,Universalas,11 499 €,Benzinas,Automatinė,"1.5 l., 110 kW",156 080 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2020-benzinas-29704247.html
+Volkswagen Golf,2017-03,Universalas,11 700 €,Benzinas,Automatinė,"1.4 l., 110 kW",98 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-universalas-2017-benzinas-29743885.html
+Volkswagen Golf,2018-03,Hečbekas,11 700 €,Dyzelinas,Automatinė,"1.6 l., 85 kW",139 000 km,Gargždai,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2018-dyzelinas-29422740.html
+Volkswagen Golf,2015-03,Hečbekas,11 900 €,Benzinas / elektra,Automatinė,"1.4 l., 150 kW",230 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2015-benzinas-elektra-28928307.html
+Volkswagen Golf,2015,Hečbekas,11 999 €,Benzinas,Mechaninė,"2.0 l., 162 kW",190 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2015-benzinas-29466964.html
+Volkswagen Golf,2020-02,Universalas,12 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",212 475 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2020-dyzelinas-28931283.html
+Volkswagen Golf,2017-01,Hečbekas,12 200 €,Benzinas,Automatinė,"1.8 l., 125 kW",133 456 km,Mažeikiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-2017-benzinas-29771001.html
+Volkswagen Golf,2016-04,Universalas,12 500 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",215 450 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2016-dyzelinas-29665527.html
+Volkswagen Golf,2017-12,Hečbekas,12 600 €,Dyzelinas,Mechaninė,"1.6 l., 85 kW",88 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-hecbekas-2017-dyzelinas-29563207.html
+Volkswagen Golf,2018-01,Hečbekas,12 700 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",96 500 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2018-elektra-29763825.html
+Volkswagen Golf,2020-02,Hečbekas,12 700 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",67 749 km,Klaipėda,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2020-elektra-29628903.html
+Volkswagen Golf,2017-05,Universalas,12 800 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",241 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2017-dyzelinas-29461442.html
+Volkswagen Golf,2019-11,Hečbekas,12 947 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",67 200 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2019-elektra-29533093.html
+Volkswagen Golf,2019-06,Hečbekas,13 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",167 700 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2019-dyzelinas-29961681.html
+Volkswagen Golf,2021-05,Universalas,13 250 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",219 690 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2021-dyzelinas-29698581.html
+Volkswagen Golf,2021-04,Hečbekas,13 900 €,Dyzelinas,Mechaninė,"2.0 l., 85 kW",254 900 km,Panevėžys,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2021-dyzelinas-29745909.html
+Volkswagen Golf,2021-06,Hečbekas,14 200 €,Benzinas,Automatinė,"1.5 l., 96 kW",,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2021-benzinas-29994591.html
+Volkswagen Golf,2016-10,Hečbekas,14 500 €,Benzinas,Automatinė,"2.0 l., 165 kW",151 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-benzinas-29806271.html
+Volkswagen Golf,2020-07,Hečbekas,14 900 €,"Elektra, 36 kWh",Automatinė,"Elektra, 36 kWh",57 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-36-kwh-hecbekas-2020-elektra-29067837.html
+Volkswagen Golf,2018-06,Hečbekas,14 900 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",173 000 km,Tauragė,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-dyzelinas-29784895.html
+Volkswagen Golf,2019-11,Hečbekas,15 200 €,Benzinas,Automatinė,"1.4 l., 110 kW",100 900 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-1-4-l-hecbekas-2019-benzinas-29166295.html
+Volkswagen Golf,2021-11,Hečbekas,15 500 €,Benzinas,Mechaninė,"1.0 l., 81 kW",116 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-hecbekas-2021-benzinas-29812619.html
+Volkswagen Golf,2018-04,Universalas,16 500 €,Dyzelinas,Automatinė,"2.0 l., 135 kW",153 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2018-dyzelinas-29761305.html
+Volkswagen Golf,2023-08,Universalas,16 700 €,Benzinas / elektra,Automatinė,"1.0 l., 81 kW",26 821 km,Raseiniai,https://autoplius.lt/skelbimai/volkswagen-golf-1-0-l-universalas-2023-benzinas-elektra-29766849.html
+Volkswagen Golf,2017-12,Hečbekas,16 800 €,Benzinas,Automatinė,"2.0 l., 169 kW",117 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2017-benzinas-29761813.html
+Volkswagen Golf,2021-09,Hečbekas,18 000 €,Benzinas / elektra,Automatinė,"1.5 l., 96 kW",110 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2021-benzinas-elektra-30032867.html
+Volkswagen Golf,2014-07,Hečbekas,18 500 €,Benzinas,Automatinė,260 kW,69 000 km,Alytus,https://autoplius.lt/skelbimai/volkswagen-golf-hecbekas-2014-benzinas-28160382.html
+Volkswagen Golf,2014-12,Hečbekas,18 881 €,Benzinas,Automatinė,"2.0 l., 221 kW",131 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2014-benzinas-29325492.html
+Volkswagen Golf,2012-09,Hečbekas,18 890 €,Benzinas,Automatinė,"2.0 l., 173 kW",148 555 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2012-benzinas-29703949.html
+Volkswagen Golf,2017-04,Hečbekas,18 900 €,Benzinas,Automatinė,"2.0 l., 215 kW",115 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2017-benzinas-29564515.html
+Volkswagen Golf,2022-06,Hečbekas,19 750 €,Benzinas,Mechaninė,"2.0 l., 180 kW",110 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2022-benzinas-27520629.html
+Volkswagen Golf,2016,Hečbekas,19 900 €,Benzinas,Automatinė,"2.0 l., 370 kW",89 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2016-benzinas-26608995.html
+Volkswagen Golf,2020-12,Hečbekas,20 450 €,Benzinas,Automatinė,"2.0 l., 170 kW",22 653 km,Kretinga,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2020-benzinas-29962365.html
+Volkswagen Golf,2024-05,Universalas,20 500 €,Benzinas / elektra,Automatinė,"1.5 l., 110 kW",20 194 km,Telšiai,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2024-benzinas-elektra-29501166.html
+Volkswagen Golf,2022-12,Universalas,21 500 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",71 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-universalas-2022-dyzelinas-29748385.html
+Volkswagen Golf,2024-06,Hečbekas,22 400 €,Benzinas,Automatinė,"1.5 l., 96 kW",,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-29692103.html
+Volkswagen Golf,2025-04,Hečbekas,24 000 €,Dyzelinas,Automatinė,"2.0 l., 110 kW",11 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2025-dyzelinas-30014345.html
+Volkswagen Golf,2022-05,Hečbekas,24 750 €,Dyzelinas,Automatinė,"2.0 l., 147 kW",65 500 km,Jurbarkas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2022-dyzelinas-30027535.html
+Volkswagen Golf,2018-02,Hečbekas,24 900 €,Benzinas,Automatinė,"2.0 l., 215 kW",82 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-benzinas-29873190.html
+Volkswagen Golf,2018-01,Hečbekas,26 500 €,Benzinas,Automatinė,"2.0 l., 330 kW",43 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2018-benzinas-29776203.html
+Volkswagen Golf,2024-11,Hečbekas,27 500 €,Benzinas / elektra,Automatinė,"1.5 l.,",6 000 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2024-benzinas-elektra-29760497.html
+Volkswagen Golf,2025-05,Universalas,28 000 €,Benzinas,Automatinė,"1.5 l., 110 kW",22 400 km,Kaunas,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-universalas-2025-benzinas-29773311.html
+Volkswagen Golf,2025-06,Hečbekas,29 850 €,Benzinas / elektra,Automatinė,"1.5 l.,",1 900 km,Marijampolė,https://autoplius.lt/skelbimai/volkswagen-golf-1-5-l-hecbekas-2025-benzinas-elektra-29984705.html
+Volkswagen Golf,2021-07,Hečbekas,36 500 €,Benzinas,Automatinė,"2.0 l., 332 kW",78 000 km,Šiauliai,https://autoplius.lt/skelbimai/volkswagen-golf-2-0-l-hecbekas-2021-benzinas-29477466.html
+Volkswagen Golf,1988,Hečbekas,600 €,Benzinas,Mechaninė,"1.8 l., 66 kW",20 000 km,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-8-l-hecbekas-1988-benzinas-30023993.html
+Volkswagen Golf,2002-08,Universalas,1 100 €,Benzinas,Mechaninė,"1.6 l., 77 kW",,Vilnius,https://autoplius.lt/skelbimai/volkswagen-golf-1-6-l-universalas-2002-benzinas-29794005.html
