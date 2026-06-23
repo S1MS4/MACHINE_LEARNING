@@ -4,4 +4,6 @@ venv/
 .venv/
 */venv/
 */.venv/
-
+.gitignore
+.gitattributes
+__pycache__

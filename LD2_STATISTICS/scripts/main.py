@@ -1,6 +1,6 @@
 """
 Statistinė duomenų analizė - ND2
-Studentas: [Arijus Simasius]
+Studentas: [Arijus]
 Data: 2026-03-02
 """
 

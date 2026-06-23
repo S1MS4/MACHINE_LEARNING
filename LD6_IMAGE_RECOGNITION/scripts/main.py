@@ -10,9 +10,9 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, classifica
 from tensorflow.keras import layers, models, optimizers # pyright: ignore[reportMissingModuleSource]
 from tensorflow.keras.callbacks import EarlyStopping # pyright: ignore[reportMissingModuleSource]
 
-# ─────────────────────────────────────────────
+#
 # K1.1 – naudojam Dangus duomenų aibę, nieko nekeičiam
-# ─────────────────────────────────────────────
+#
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data',)
 TRAIN_DIR = os.path.join(DATA_DIR, 'learning_set')
@@ -24,9 +24,9 @@ print("Klasės:", KLASĖS)
 # K1.2 – jokio augmentavimo, tiesiog originalūs paveikslėliai
 # (nėra ImageDataGenerator su flip/rotation ir pan.)
 
-# ─────────────────────────────────────────────
+#
 # K2.1 – sukeliam paveikslėlius, suvienodinam dydį ir normalizuojam
-# ─────────────────────────────────────────────
+#
 
 IMG_SIZE = (64, 64)
 # IMG_SIZE = (96, 96)  # padidinam kad CNN turėtų daugiau informacijos
@@ -52,9 +52,9 @@ X_test_rgb,  y_test  = load_dataset(TEST_DIR,  'RGB')
 
 print(f"Treniravimo aibė: {X_train_rgb.shape}, Testavimo aibė: {X_test_rgb.shape}")
 
-# ─────────────────────────────────────────────
-# K2.2 – priskyriam ir išvedам paveikslėlių pavadinimus / etiketes
-# ─────────────────────────────────────────────
+# 
+# K2.2 – priskyriam ir išvedam paveikslėlių pavadinimus / etiketes
+# 
 
 print("\nPaveikslėlių skaičius pagal klasę (train):")
 for i, k in enumerate(KLASĖS):
@@ -64,11 +64,11 @@ print("\nPaveikslėlių skaičius pagal klasę (test):")
 for i, k in enumerate(KLASĖS):
     print(f"  {k}: {np.sum(y_test == i)} vnt.")
 
-# ─────────────────────────────────────────────
+# 
 # K3.1 – bandome skirtingus išankstinio apdorojimo būdus
 #         1) RGB (jau turim)
 #         2) Grayscale (pilkos spalvos)
-# ─────────────────────────────────────────────
+# 
 
 X_train_gray, _ = load_dataset(TRAIN_DIR, 'L')
 X_test_gray,  _ = load_dataset(TEST_DIR,  'L')
@@ -79,10 +79,10 @@ X_test_gray  = X_test_gray[...,  np.newaxis]
 
 print(f"\nRGB forma: {X_train_rgb.shape}, Grayscale forma: {X_train_gray.shape}")
 
-# ─────────────────────────────────────────────
+# 
 # K3.2 – DL4J nenaudojam nes tai Java biblioteka, o čia Python projektas.
 #         Vietoj jo naudojam du Keras modelius: paprastą Dense tinklą ir CNN
-# ─────────────────────────────────────────────
+# 
 
 NUM_CLASSES = len(KLASĖS)
 
@@ -111,10 +111,10 @@ def build_cnn(input_shape, filters=32):
     ])
     return m
 
-# ─────────────────────────────────────────────
+# 
 # K3.3 – bandome skirtingus mokymo parametrus (learning rate, epochs)
 # K3.4 – bandome skirtingus sluoksnių parametrus (neurons/filters)
-# ─────────────────────────────────────────────
+# 
 
 eksperimentai = [
     # (pavadinimas, modelio_fn, parametrai, X_train, X_test, lr, epochs)
@@ -142,9 +142,9 @@ for pav, model_fn, params, X_tr, X_te, lr, ep in eksperimentai:
     print(f"    Tikslumas: {acc:.4f}")
     rezultatai.append((pav, modelis, acc, X_te, history))
 
-# ─────────────────────────────────────────────
+# 
 # K3.5 – lyginam modelius, rodome geriausius parametrus
-# ─────────────────────────────────────────────
+# 
 
 print("\n\nMODELIŲ PALYGINIMAS")
 rezultatai.sort(key=lambda x: x[2], reverse=True)
@@ -154,9 +154,9 @@ for pav, _, acc, _, _ in rezultatai:
 geriausias_pav, geriausias_modelis, geriausias_acc, geriausias_X_te, geriausias_history = rezultatai[0]
 print(f"\nGeriausias modelis: {geriausias_pav}  ({geriausias_acc:.4f})")
 
-# ─────────────────────────────────────────────
+# 
 # Mokymosi kreivės geriausiam modeliui
-# ─────────────────────────────────────────────
+# 
 
 hist = geriausias_history.history
 epochs_range = range(1, len(hist['accuracy']) + 1)
@@ -180,9 +180,9 @@ plt.tight_layout()
 plt.savefig(os.path.join(os.path.dirname(__file__), '..', 'images', 'learning_curve.png'))
 plt.show()
 
-# ─────────────────────────────────────────────
+# 
 # K3.6 – klasifikavimo matrica geriausiam modeliui
-# ─────────────────────────────────────────────
+# 
 
 y_pred = np.argmax(geriausias_modelis.predict(geriausias_X_te, verbose=0), axis=1)
 
