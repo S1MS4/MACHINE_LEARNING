@@ -7,7 +7,7 @@ plt.style.use('ggplot')
 sns.set_palette("husl")
 
 
-# #K.2.1 T-TESTAI
+# K.2.1 T-TESTAI
 
 def run(df):
 
@@ -54,7 +54,7 @@ def run(df):
         print("  Išvada: Negalime atmesti H0 - nėra statistiškai reikšmingo skirtumo")
 
 
-    # #K.2.2 KORELIACIJA: Valandos su AI vs Perdegimo balas
+    # K.2.2 KORELIACIJA: Valandos su AI vs Perdegimo balas
 
     print("\n[Koreliacija Nr.1] hours_with_ai_assistance_daily vs burnout_score")
 
@@ -79,7 +79,7 @@ def run(df):
     
 
 
-    # #K.2.3 KORELIACIJA: AI užduočių pakeitimas vs Perdegimo balas
+    # K.2.3 KORELIACIJA: AI užduočių pakeitimas vs Perdegimo balas
 
     print("\n[Koreliacija Nr.2] ai_replaces_my_tasks_pct vs burnout_score")
 
@@ -128,7 +128,7 @@ def run(df):
     
 
 
-    # #K.2.4 KORELIACIJA: Patirtis vs Darbo pasitenkinimas
+    # K.2.4 KORELIACIJA: Patirtis vs Darbo pasitenkinimas
 
     print("\n[Koreliacija Nr.3] years_experience vs job_satisfaction_1_5")
 
@@ -161,7 +161,7 @@ def run(df):
     
 
 
-    # #K.2.5 KORELIACIJA: Atlyginimas vs Darbo pasitenkinimas
+    # K.2.5 KORELIACIJA: Atlyginimas vs Darbo pasitenkinimas
 
     print("\n[Koreliacija Nr.4] salary_usd_k vs job_satisfaction_1_5")
 
@@ -193,7 +193,7 @@ def run(df):
     
 
 
-    # #K.2.6 T-TESTŲ VIZUALIZACIJA SU HISTOGRAMOMIS
+    # K.2.6 T-TESTŲ VIZUALIZACIJA SU HISTOGRAMOMIS
 
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     fig.suptitle('T-testų grupių pasiskirstymo histogramos', fontsize=14, fontweight='bold')
@@ -243,7 +243,7 @@ def run(df):
     plt.tight_layout()
     plt.savefig('../images/ttest_histograms.png', dpi=150, bbox_inches='tight')
 
-    # #K.2.7 T-TESTŲ VIZUALIZACIJA SU BOX PLOTAIS
+    # K.2.7 T-TESTŲ VIZUALIZACIJA SU BOX PLOTAIS
 
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     fig.suptitle('T-testų grupių box plotai', fontsize=14, fontweight='bold')

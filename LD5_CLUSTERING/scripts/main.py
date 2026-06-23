@@ -14,10 +14,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.decomposition import PCA
 from scipy.cluster.hierarchy import dendrogram, linkage
 
-
-# ==============================================================
 # K.1 – DUOMENYS
-# ==============================================================
 
 # K.1.1 + K.1.2 – Užkraunam CSV failą su lietuviškais tekstais.
 # Duomenų aibę sudaro bent 20 dokumentų, keturių temų (bent 5 kiekviena).
@@ -35,10 +32,7 @@ with open("../duomenys/duomenys160.csv", encoding="utf-8") as f:
 
 print(f"Užkrauta {len(tekstai)} dokumentų\n")
 
-
-# ==============================================================
 # K.2 – TEKSTO APDOROJIMO METODAI
-# ==============================================================
 
 # K.2.2 – Lietuviški stop words sąrašas: dažni žodžiai, kurie nieko nereiškia analizei.
 STOP_WORDS = {
@@ -94,10 +88,7 @@ print("Prieš:", tekstai[0][:100])
 print("Po:   ", apdoroti[0][:100])
 print()
 
-
-# ==============================================================
 # TF-IDF VEKTORIZACIJA (paruošiamasis žingsnis prieš K.3)
-# ==============================================================
 
 # TF-IDF paverčia tekstus į skaičių vektorius – retesnis žodis konkrečiame dokumente gauna didesnį svorį.
 print("Vektorizuojam (TF-IDF)...")
@@ -115,10 +106,7 @@ vektorizeris = TfidfVectorizer(
 X = vektorizeris.fit_transform(apdoroti)
 print(f"Matrica: {X.shape[0]} dokumentai x {X.shape[1]} žodžių\n")
 
-
-# ==============================================================
 # K.3.2 + K.3.3 – K-VIDURKIŲ (K-MEANS) KLASTERIZAVIMAS
-# ==============================================================
 
 # K.3.2 – Taikomas k-vidurkių metodas dokumentams suskirstyti į grupes.
 # K.3.3 – Bandome skirtingus k parametrus (3, 4, 5) ir lyginame rezultatus.
@@ -142,10 +130,7 @@ print("\nK.3.3 – Renkamės k=4: geriausiai atitinka 4 temas, klasteriai aiški
 kmeans_galutinis = KMeans(n_clusters=4, random_state=67, n_init=10)
 kmeans_galutinis.fit(X)
 
-
-# ==============================================================
 # K.3.1 + K.3.3 – HIERARCHINIS KLASTERIZAVIMAS
-# ==============================================================
 
 # K.3.1 – Taikomas hierarchinis klasterizavimas, kuris grupuoja dokumentus pagal panašumą žingsnis po žingsnio.
 # K.3.3 – Bandome du sujungimo metodus (ward, complete) ir lyginame.
@@ -172,10 +157,7 @@ for metodas in ["ward", "complete"]:
 # Renkamės 'ward' kaip standartinį pasirinkimą tekstų klasterizavimui,
 # nes bent sporto tema atsiskiria į grynesnį klasterį.
 
-
-# ==============================================================
 # K.3.4 – PANAŠUMO MATAS TARP DVIEJŲ DOKUMENTŲ
-# ==============================================================
 
 # K.3.4 – Skaičiuojam kosinuso panašumą tarp dokumentų: 1.0 = identiški, 0.0 = visiškai skirtingi.
 print("\n" + "=" * 50)
@@ -216,9 +198,7 @@ print(f"Panašumas (ta pati tema):     {panasum_vienodi:.4f}")
 print("\nKuo arčiau 1.0 – tuo panašesni. Kuo arčiau 0 – tuo labiau skiriasi.")
 
 
-# ==============================================================
 # K.3.5 – VIZUALIZACIJOS (padeda paaiškinti gautus rezultatus)
-# ==============================================================
 
 # K.3.5 – Du grafikai: k-means rezultatų stulpelinė diagrama ir hierarchinio klasterizavimo dendrograma.
 print("\nKuriame grafikus...")
@@ -273,10 +253,7 @@ print("Grafikai išsaugoti: klasterizavimas_rezultatai.png")
 
 plt.show()
 
-
-# ==============================================================
 # K.3.5 – SCATTER PLOT SU VORONOI DIAGRAMOMIS (PCA 2D projekcija)
-# ==============================================================
 
 # K.3.5 – Trečias grafikas: sumažinam 1000 dimensijų į 2 naudodami PCA.
 # Voronoi diagrama padalija erdvę į sritis pagal artimiausius k-means centroidus –

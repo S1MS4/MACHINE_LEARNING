@@ -18,9 +18,7 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 
-# -----------------------------------------------------------------------
 # 1. Duomenų paruošimas (identiška main.py logika)
-# -----------------------------------------------------------------------
 
 df = pd.read_csv("../data/student_dropout_dataset.csv")
 
@@ -69,9 +67,7 @@ modeliai = {
 klasių_spalvos = {0: "#4C72B0", 1: "#DD8452", 2: "#55A868"}  # active, at-risk, dropped
 klasių_pavadinimai = le_cat.classes_  # ['active', 'at-risk', 'dropped']
 
-# -----------------------------------------------------------------------
 # 2. PCA – sumažinam iki 2D sprendimų ribų vizualizacijai
-# -----------------------------------------------------------------------
 
 pca = PCA(n_components=2, random_state=67)
 X_2d = pca.fit_transform(X_bal)
@@ -86,9 +82,7 @@ xx, yy = np.meshgrid(np.linspace(x_min, x_max, 300),
                      np.linspace(y_min, y_max, 300))
 tinklelis = np.c_[xx.ravel(), yy.ravel()]
 
-# -----------------------------------------------------------------------
 # 3. Sprendimų ribų diagrama
-# -----------------------------------------------------------------------
 
 fig, axes = plt.subplots(1, 3, figsize=(17, 5))
 fig.suptitle(
@@ -138,9 +132,7 @@ plt.savefig("../results/sprendimu_ribos.png", dpi=150, bbox_inches="tight")
 plt.close()
 print("Išsaugota: sprendimu_ribos.png")
 
-# -----------------------------------------------------------------------
 # 4. Mokymosi kreivės
-# -----------------------------------------------------------------------
 
 fig, axes = plt.subplots(1, 3, figsize=(17, 5))
 fig.suptitle("Mokymosi kreivės – tikslumas priklausomai nuo mokymo duomenų kiekio",

@@ -19,17 +19,13 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay, classification_report
 from sklearn.utils import resample
 
-# -----------------------------------------------------------------------
 # 1. Duomenų nuskaitymas
-# -----------------------------------------------------------------------
 
 df = pd.read_csv("../data/student_dropout_dataset.csv")
 print(f"Įkelta {df.shape[0]} eilučių, {df.shape[1]} stulpelių")
 print(df['label_name'].value_counts().to_string())
 
-# -----------------------------------------------------------------------
 # 2. Požymių paruošimas
-# -----------------------------------------------------------------------
 
 # region ir exam_season yra kategoriniai – verčiam į skaičius
 le_region = LabelEncoder()
@@ -58,16 +54,12 @@ y_enc = le_cat.fit_transform(y)
 
 print(f"\nKlasės: {le_cat.classes_}")
 
-# -----------------------------------------------------------------------
 # 3. Normalizavimas – MinMaxScaler į [0, 1] (K.1.2)
-# -----------------------------------------------------------------------
 
 scaler = MinMaxScaler()
 X_scaled = scaler.fit_transform(X)
 
-# -----------------------------------------------------------------------
 # 4. Balansavimas – oversampling (K.1.3)
-# -----------------------------------------------------------------------
 
 # klasės jau gana subalansuotos (~1630-1700), bet vis tiek sulyginam
 max_dydis = np.bincount(y_enc).max()
@@ -86,15 +78,11 @@ y_bal = np.concatenate(y_parts)
 
 print(f"Po balansavimo: {np.bincount(y_bal)} (kiekviena klasė)")
 
-# -----------------------------------------------------------------------
 # 5. Kryžminė patikra – StratifiedKFold k=10 (K.1.4)
-# -----------------------------------------------------------------------
 
 CV = StratifiedKFold(n_splits=10, shuffle=True, random_state=67)
 
-# -----------------------------------------------------------------------
 # 6. Modeliai ir hyperparametrų optimizavimas – GridSearchCV (K.1.5, K.1.6)
-# -----------------------------------------------------------------------
 
 modeliai = {
     "KNN": GridSearchCV(
@@ -114,9 +102,7 @@ modeliai = {
     ),
 }
 
-# -----------------------------------------------------------------------
 # 7. Apmokymas ir tikslumo skaičiavimas (K.1.7)
-# -----------------------------------------------------------------------
 
 rezultatai = {}
 
@@ -132,9 +118,7 @@ for pavadinimas, grid in modeliai.items():
     }
     print(f"{pavadinimas}: {cv_scores.mean():.4f} ± {cv_scores.std():.4f}  |  {grid.best_params_}")
 
-# -----------------------------------------------------------------------
 # 8. Tikslumo diagrama (K.2.3)
-# -----------------------------------------------------------------------
 
 pavadinimai = list(rezultatai.keys())
 vidurkiai = [rezultatai[p]["cv_mean"] for p in pavadinimai]
@@ -165,9 +149,7 @@ plt.tight_layout()
 plt.savefig("../results/tikslumo_palyginimas.png", dpi=150, bbox_inches="tight")
 plt.close()
 
-# -----------------------------------------------------------------------
 # 9. Confusion matricos (K.2.4)
-# -----------------------------------------------------------------------
 
 X_train, X_test, y_train, y_test = train_test_split(
     X_bal, y_bal, test_size=0.2, random_state=67, stratify=y_bal
@@ -186,9 +168,9 @@ plt.tight_layout()
 plt.savefig("../results/confusion_matrices.png", dpi=150, bbox_inches="tight")
 plt.close()
 
-# -----------------------------------------------------------------------
+
 # 10. Ataskaita (K.2.1, K.2.2, K.2.5)
-# -----------------------------------------------------------------------
+
 print("Normalizavimas: MinMaxScaler [0,1] | Balansavimas: oversampling | CV: StratifiedKFold k=10\n")
 
 for pavadinimas, d in rezultatai.items():

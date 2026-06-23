@@ -1,9 +1,3 @@
-"""
-Statistinė duomenų analizė - ND2
-Studentas: [Arijus]
-Data: 2026-03-02
-"""
-
 import pandas as pd
 import K1
 import K2

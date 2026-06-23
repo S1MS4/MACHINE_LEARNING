@@ -5,7 +5,7 @@ import os
 import re
 import glob
 
-# ── sorter logic ──────────────────────────────────────────────────────────────
+# sorter logic
 
 def clean_numeric(series):
     return series.astype(str).str.replace(r'[^\d]', '', regex=True).pipe(pd.to_numeric, errors='coerce')
@@ -21,7 +21,7 @@ def sort_csv(filepath, col, ascending):
     df.to_csv(filepath, index=False, encoding="utf-8")
     return df
 
-# ── UI ────────────────────────────────────────────────────────────────────────
+# UI
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 WORKSPACE_DIR = os.path.dirname(SCRIPT_DIR)  # go up one level to workspace root
@@ -61,7 +61,7 @@ class App:
         main = tk.Frame(self.root, bg="#1e1e2e")
         main.pack(fill="both", expand=True, padx=16, pady=12)
 
-        # ── left: CSV file list ──
+        # left: CSV file list
         left = tk.Frame(main, bg="#1e1e2e")
         left.pack(side="left", fill="both", expand=True)
 
@@ -75,7 +75,7 @@ class App:
         self.csv_listbox.pack(fill="both", expand=True)
         self.csv_listbox.bind("<<ListboxSelect>>", self.on_file_select)
 
-        # ── middle: column list ──
+        # middle: column list
         mid = tk.Frame(main, bg="#1e1e2e")
         mid.pack(side="left", fill="both", expand=True, padx=(12, 0))
 
@@ -89,7 +89,7 @@ class App:
         self.col_listbox.pack(fill="both", expand=True)
         self.col_listbox.bind("<<ListboxSelect>>", self.on_column_select)
 
-        # ── right: options ──
+        # right: options
         right = tk.Frame(main, bg="#1e1e2e", width=180)
         right.pack(side="right", fill="y", padx=(12, 0))
         right.pack_propagate(False)

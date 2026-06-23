@@ -1,9 +1,3 @@
-"""
-Statistine duomenu analize - ND2
-Studentas: [Arijus Simasius]
-Data: 2026-03-02
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
